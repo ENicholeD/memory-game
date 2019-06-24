@@ -1,0 +1,15 @@
+.card {
+  border: 2px solid black;
+  display: inline-block;
+  margin: 30px;
+  width: 200px;
+  height: 200px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.nonMatched {
+  background-color: red;
+}
